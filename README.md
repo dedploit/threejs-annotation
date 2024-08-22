@@ -1,5 +1,8 @@
 ## React, Threejs, Spring, PostProcessing
 
+Built with React, Three.js, and @react-three/fiber, featuring interactive 3D models and annotations for it, this project is a way to show annotations
+by hovering specific point of Details in a threejs scene.
+
 ----
 
 ### Whats Inside
@@ -29,7 +32,7 @@
 
 ### Acknowledgments
 
-* Taken inspirations from [pmnd.rs](https://r3f.docs.pmnd.rs/getting-started/examples)
-* **Models Used From** : [ricylegend](https://sketchfab.com/3d-models/2021-bmw-m4-competition-d3f07b471d9f4a2c9a2acf79d88a3645) and [bohmerang](https://sketchfab.com/3d-models/f-35-lightning-ii-fighter-jet-free-b1ab1c0090e34b0fbfe667e706023e6d)
+* Taken inspirations from [pmnd.rs](https://r3f.docs.pmnd.rs/getting-started/examples){:target="_blank" rel="noopener"}
+* **Models Used From** : [ricylegend](https://sketchfab.com/3d-models/2021-bmw-m4-competition-d3f07b471d9f4a2c9a2acf79d88a3645){:target="_blank" rel="noopener"} and [bohmerang](https://sketchfab.com/3d-models/f-35-lightning-ii-fighter-jet-free-b1ab1c0090e34b0fbfe667e706023e6d){:target="_blank" rel="noopener"}
 
 
